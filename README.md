@@ -4,3 +4,7 @@ LoRA training test
  
  
  MinChen
+
+Source/lora_train.ipynb
+
+ https://colab.research.google.com/github/SirDarius/verbose-giggle/Source/lora_train.ipynb
