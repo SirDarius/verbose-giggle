@@ -7,4 +7,6 @@ LoRA training test
 
 Source/lora_train.ipynb
 
- https://colab.research.google.com/github/SirDarius/verbose-giggle/Source/lora_train.ipynb
+[Link](https://colab.research.google.com/github/SirDarius/verbose-giggle/blob/main/Source/lora_train.ipynb)
+
+https://colab.research.google.com/github/SirDarius/verbose-giggle/blob/main/Source/lora_train.ipynb
